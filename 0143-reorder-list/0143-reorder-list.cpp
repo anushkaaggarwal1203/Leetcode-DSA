@@ -30,15 +30,18 @@ public:
         ListNode *b=reverse(slow->next);
         slow->next=NULL;
         ListNode *a=head;
-        ListNode *n1=NULL,*n2=NULL;
-        while(b){
-            n1=a->next;
-            n2=b->next;
-            a->next=b;
-            b->next=n1;
-            a=n1;
-            b=n2;
+        ListNode *c=new ListNode(1);
+        ListNode *tempC=c,*tempA=a,*tempB=b;
+        while(tempB){
+            tempC->next=tempA;
+            tempA=tempA->next;
+            tempC=tempC->next;
+            tempC->next=tempB;
+            tempB=tempB->next;
+            tempC=tempC->next;
         }
+        tempC->next=tempA;
+        head=c->next;
 
     }
 };
