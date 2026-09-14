@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+## Array
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Sorting
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
