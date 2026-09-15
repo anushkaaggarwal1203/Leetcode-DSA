@@ -27,6 +27,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -61,5 +62,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
