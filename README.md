@@ -29,6 +29,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
