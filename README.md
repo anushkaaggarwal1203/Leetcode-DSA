@@ -11,6 +11,7 @@
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0725-split-linked-list-in-parts) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
