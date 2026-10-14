@@ -36,6 +36,7 @@
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -125,4 +127,5 @@
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
