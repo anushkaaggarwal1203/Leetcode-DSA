@@ -4,15 +4,14 @@ public:
         int n=s.length();
         stack<int> st;
         for(int i=0;i<n;i++){
-            if(isalpha(s[i])) st.push(s[i]);
+            if(s[i]>=97 && s[i]<=122) st.push(s[i]);
             else{
-                if(!st.empty() && isalpha(st.top())) st.pop();
-                else st.push(s[i]);
+                st.pop();
             }
         }
         string s1="";
         while(!st.empty()){
-            s1+=st.top();
+            s1.push_back(st.top());
             st.pop();
         }
         reverse(s1.begin(),s1.end());
