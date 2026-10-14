@@ -11,7 +11,7 @@ public:
         }
         string s1="";
         while(!st.empty()){
-            s1.push_back(st.top());
+            s1+=st.top();
             st.pop();
         }
         reverse(s1.begin(),s1.end());
