@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Tree
 |  |
