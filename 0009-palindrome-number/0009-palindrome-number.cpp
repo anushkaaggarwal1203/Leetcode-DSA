@@ -1,10 +1,14 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string s1=to_string(x);
-        string s2=to_string(x);
-        reverse(s2.begin(),s2.end());
-        if(s1==s2) return true;
+        if(x<0) return false;
+        int n=x;
+        long r=0;
+        while(n>0){
+            r=r*10+(n%10);
+            n=n/10;
+        }
+        if(x==r) return true;
         else return false;
     }
 };
