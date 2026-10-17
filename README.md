@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
