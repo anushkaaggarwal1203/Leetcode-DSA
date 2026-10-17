@@ -58,6 +58,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
