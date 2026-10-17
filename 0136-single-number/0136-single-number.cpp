@@ -4,8 +4,7 @@ public:
         stack<int> st;
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        st.push(nums[0]);
-        for(int i=1;i<n;i++){
+        for(int i=0;i<n;i++){
             if(!st.empty() && nums[i]==st.top()) st.pop();
             else st.push(nums[i]);
         }
