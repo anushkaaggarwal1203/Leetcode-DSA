@@ -106,6 +106,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
