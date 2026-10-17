@@ -62,6 +62,7 @@
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Greedy
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 ## Bracket Sequences
