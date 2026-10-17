@@ -1,10 +1,14 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        stack<int> st;
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            if(count(nums.begin(),nums.end(),nums[i])==1) return nums[i];
+        sort(nums.begin(),nums.end());
+        st.push(nums[0]);
+        for(int i=1;i<n;i++){
+            if(!st.empty() && nums[i]==st.top()) st.pop();
+            else st.push(nums[i]);
         }
-        return 0;
+        return st.top();
     }
 };
