@@ -60,6 +60,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
