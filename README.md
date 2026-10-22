@@ -79,6 +79,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1603-design-parking-system) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
@@ -146,6 +147,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -156,6 +158,7 @@
 | [0225-implement-stack-using-queues](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0707-design-linked-list) |
+| [1603-design-parking-system](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
