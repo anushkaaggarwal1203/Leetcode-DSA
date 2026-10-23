@@ -4,9 +4,7 @@ public:
         int q=s.size()-1;
         int p=0;
         while(p<q){
-            char temp=s[p];
-            s[p]=s[q];
-            s[q]=temp;
+            swap(s[p],s[q]);
             p++;
             q--;
         }
