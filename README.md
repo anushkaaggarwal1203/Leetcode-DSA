@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
