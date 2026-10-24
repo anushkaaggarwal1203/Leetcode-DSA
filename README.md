@@ -31,6 +31,7 @@
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1768-merge-strings-alternately) |
+| [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
+| [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bracket Sequences
 |  |
 | ------- |
