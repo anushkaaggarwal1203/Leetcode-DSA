@@ -10,14 +10,9 @@ public:
                 s1+=ch;
             }
         }
-        n=s1.length();
-        int p=0;
-        int q=n-1;
-        while(p<q){
-            if(s1[p]!=s1[q]) return false;
-            p++;
-            q--;
-        }
-        return true;
+        string s2=s1;
+        reverse(s1.begin(),s1.end());
+        if(s1==s2) return true;
+        return false;
     }
 };
