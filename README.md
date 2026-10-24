@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
