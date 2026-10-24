@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Doubly-Linked List
@@ -135,11 +136,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
