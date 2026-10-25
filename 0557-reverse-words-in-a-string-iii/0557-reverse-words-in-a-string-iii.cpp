@@ -8,7 +8,9 @@ public:
             if(s[i]==' '|| i==n){
                 q=i-1;
                 while(p<q){
-                    swap(s[p],s[q]);
+                    char temp=s[p];
+                    s[p]=s[q];
+                    s[q]=temp;
                     p++;
                     q--;
                 }
