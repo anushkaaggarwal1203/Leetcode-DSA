@@ -4,26 +4,16 @@ public:
         int n=s.length();
         int p=0;
         int q;
-        for(int i=0;i<n;i++){
-            if(s[i]==' '){
+        for(int i=0;i<=n;i++){
+            if(s[i]==' '|| i==n){
                 q=i-1;
                 while(p<q){
-                    char temp=s[p];
-                    s[p]=s[q];
-                    s[q]=temp;
+                    swap(s[p],s[q]);
                     p++;
                     q--;
                 }
                 p=i+1;
             }
-        }
-        q=n-1;
-        while(p<q){
-            char temp=s[p];
-            s[p]=s[q];
-            s[q]=temp;
-            p++;
-            q--;
         }
         return s;
 
