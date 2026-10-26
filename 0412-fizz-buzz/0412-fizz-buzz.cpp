@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
-        vector<string> v(n);
+        vector<string> v;
+        v.reserve(n);
         for(int i=1;i<=n;i++){
             if(i%15==0){
-                v[i-1]="FizzBuzz";
+                v.push_back("FizzBuzz");
             }
             else if(i%3==0){
-               v[i-1]="Fizz";
+                v.push_back("Fizz");
             }
             else if(i%5==0){
-                v[i-1]="Buzz";
+                v.push_back("Buzz");
             }
             else{
-                v[i-1]=to_string(i);
+                v.push_back(to_string(i));
             }
         }
         return v;
