@@ -115,6 +115,7 @@
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2235-add-two-integers](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
+| [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
+| [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 ## Design
 |  |
 | ------- |
