@@ -98,6 +98,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -170,6 +172,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [1603-design-parking-system](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
