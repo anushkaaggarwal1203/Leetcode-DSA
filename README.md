@@ -119,6 +119,7 @@
 | [3794-reverse-string-prefix](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Bracket Sequences
 |  |
 | ------- |
