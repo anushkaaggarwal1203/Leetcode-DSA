@@ -24,16 +24,12 @@ public:
         nthlevel(root->left,curr+1,req,v);
         nthlevel(root->right,curr+1,req,v);
     }
-    vector<int> nthlevell(TreeNode *root,int curr,int req){
-        vector<int> v;
-        nthlevel(root,curr,req,v);
-        return v;
-    }
     void helper(TreeNode *root,vector<vector<int>> &ans){
         int n=levels(root);
         for(int i=1;i<=n;i++){
-            vector<int> x=nthlevell(root,1,i);
-            ans.push_back(x);
+            vector<int> v;
+            nthlevel(root,1,i,v);
+            ans.push_back(v);
         }
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
