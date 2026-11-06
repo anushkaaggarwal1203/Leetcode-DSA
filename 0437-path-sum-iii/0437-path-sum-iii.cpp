@@ -14,8 +14,8 @@ public:
     void helper(TreeNode* root, long long targetSum,int &c){
         if(root==NULL) return;
         if((root->val)==targetSum) c++;
-        helper(root->left,targetSum-(long long)(root->val),c);
-        helper(root->right,targetSum-(long long)(root->val),c);
+        helper(root->left,targetSum-(root->val),c);
+        helper(root->right,targetSum-(root->val),c);
     }
     int pathSum(TreeNode* root, int targetSum) {
         int c=0;
