@@ -63,6 +63,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -111,6 +112,7 @@
 | [0020-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -176,6 +178,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -193,6 +196,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
@@ -268,4 +272,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
