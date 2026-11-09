@@ -184,6 +184,7 @@
 | [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -281,4 +283,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
