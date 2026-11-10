@@ -15,7 +15,7 @@ public:
         if(low>high) return NULL;
         int mid=(low+high)/2;
         TreeNode *rt=new TreeNode(nums[mid]);
-        if(low==high) return rt;
+        //if(low==high) return rt;
         rt->left=helper(nums,low,mid-1);
         rt->right=helper(nums,mid+1,high);
         return rt;
