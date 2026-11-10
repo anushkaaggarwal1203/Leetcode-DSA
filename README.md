@@ -48,6 +48,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
@@ -88,6 +89,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -218,6 +222,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## DP on Trees
 |  |
@@ -308,5 +313,6 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
