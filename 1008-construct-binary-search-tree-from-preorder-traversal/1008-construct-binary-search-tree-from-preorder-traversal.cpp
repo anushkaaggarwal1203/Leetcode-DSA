@@ -25,7 +25,7 @@ public:
             }
             else insert(root->left,val);
         }
-        return;
+        //return;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         TreeNode *root=new TreeNode(preorder[0]);
