@@ -12,7 +12,7 @@
 class Solution {
 public:
     void insert(TreeNode *root,int val){
-        if(root==NULL) return;
+        //if(root==NULL) return;
         if(val>root->val){
             if(root->right==NULL){
                 root->right=new TreeNode(val);
