@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* &root,int &sum){
+    void inorder(TreeNode *root,int &sum){
         if(root==NULL) return;
         inorder(root->right,sum);
         root->val+=sum;
