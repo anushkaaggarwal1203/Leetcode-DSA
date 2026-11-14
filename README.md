@@ -147,6 +147,7 @@
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3931-check-adjacent-digit-differences) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Tree
 |  |
 | ------- |
