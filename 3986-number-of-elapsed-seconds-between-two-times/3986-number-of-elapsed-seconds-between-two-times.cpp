@@ -1,12 +1,13 @@
 class Solution {
 public:
+    int helper(string s){
+        int se=stoi(s.substr(6,8));
+        int h=stoi(s.substr(0.2));
+        int m=stoi(s.substr(3,5));
+        return h*3600 + m*60 +se;
+
+    }
     int secondsBetweenTimes(string startTime, string endTime) {
-        int s2=((endTime[6]-'0')*10 + (endTime[7]-'0'));
-        int s1=((startTime[6]-'0')*10 + (startTime[7]-'0'));
-        int m2=((endTime[3]-'0')*10 + (endTime[4]-'0'));
-        int m1=((startTime[3]-'0')*10 + (startTime[4]-'0'));
-        int h2=((endTime[0]-'0')*10 + (endTime[1]-'0'));
-        int h1=((startTime[0]-'0')*10 + (startTime[1]-'0'));
-        return ((h2-h1)*3600)+((m2-m1)*60) + (s2-s1); 
+        return helper(endTime)-helper(startTime);
     }
 };
