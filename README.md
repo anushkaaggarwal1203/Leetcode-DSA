@@ -91,6 +91,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1773-count-items-matching-a-rule) |
@@ -131,6 +132,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1773-count-items-matching-a-rule) |
