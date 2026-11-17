@@ -8,7 +8,7 @@ public:
         char ch;
         for(int i=0;i<n;i++){
             ch=tolower(word[i]);
-            if(ch>=90 && ch<=122){
+            if(ch>=97 && ch<=122){
                 if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u') f1=true;
                 else f2=true;
             }
