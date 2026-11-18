@@ -145,6 +145,7 @@
 | [3019-number-of-changing-keys](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3136-valid-word) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3856-trim-trailing-vowels) |
@@ -179,6 +180,7 @@
 | [2235-add-two-integers](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Tree
