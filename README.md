@@ -101,6 +101,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [3856-trim-trailing-vowels](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Bracket Sequences
@@ -276,6 +278,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 ## Design
 |  |
 | ------- |
