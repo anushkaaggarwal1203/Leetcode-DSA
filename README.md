@@ -149,6 +149,7 @@
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3340-check-balanced-string) |
 | [3794-reverse-string-prefix](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3794-reverse-string-prefix) |
+| [3813-vowel-consonant-score](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
@@ -277,6 +278,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3174-clear-digits) |
+| [3813-vowel-consonant-score](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 ## Design
