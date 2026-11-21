@@ -2,9 +2,9 @@ class Solution {
 public:
     vector<int> buildArray(vector<int>& nums) {
         int n=nums.size();
-        vector<int> v;
+        vector<int> v(n);
         for(int i=0;i<n;i++){
-            v.push_back(nums[nums[i]]);
+            v[i]=nums[nums[i]];
         }
         return v;
     }
