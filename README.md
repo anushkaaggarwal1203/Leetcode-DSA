@@ -96,6 +96,7 @@
 | [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -274,6 +275,7 @@
 | [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
