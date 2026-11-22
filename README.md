@@ -144,6 +144,7 @@
 | [1816-truncate-sentence](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3019-number-of-changing-keys) |
