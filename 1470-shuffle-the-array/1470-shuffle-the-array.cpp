@@ -4,6 +4,7 @@ public:
         int i=0;
         int j=n;
         vector<int> ans;
+        ans.reserve(2*n);
         while(i<n){
             ans.push_back(nums[i]);
             ans.push_back(nums[j]);
