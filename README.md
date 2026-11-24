@@ -82,6 +82,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0771-jewels-and-stones](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 ## Greedy
