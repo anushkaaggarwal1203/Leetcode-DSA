@@ -108,6 +108,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
 ## Greedy
 |  |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,4 +347,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
