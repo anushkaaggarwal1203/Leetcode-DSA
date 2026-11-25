@@ -224,6 +224,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2236-root-equals-sum-of-children) |
 ## DP on Trees
 |  |
 | ------- |
