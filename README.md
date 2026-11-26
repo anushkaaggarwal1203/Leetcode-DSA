@@ -23,6 +23,7 @@
 | [0203-remove-linked-list-elements](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
@@ -324,6 +326,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0509-fibonacci-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
