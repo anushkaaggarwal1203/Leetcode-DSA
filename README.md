@@ -198,6 +198,7 @@
 | [2469-convert-the-temperature](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/2469-convert-the-temperature) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3959-check-good-integer) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Tree
 |  |
@@ -297,6 +298,7 @@
 | [3813-vowel-consonant-score](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3921-score-validator) |
+| [3959-check-good-integer](https://github.com/anushkaaggarwal1203/Leetcode-DSA/tree/master/3959-check-good-integer) |
 ## Design
 |  |
 | ------- |
